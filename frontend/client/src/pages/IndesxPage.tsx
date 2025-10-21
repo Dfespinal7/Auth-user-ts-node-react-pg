@@ -124,7 +124,7 @@ export default function IndesxPage() {
                 <div className=' h-12 flex justify-between px-4'>
                     <h1 className='font-semibold text-xl'>Attendance history</h1>
                     <div className='flex gap-2 mb-2'>
-                        <button className='bg-trasparent border p-2 rounded-md size-10 cursor-pointer'><BellAlertIcon className='size-6'></BellAlertIcon></button>
+                        <button className='bg-trasparent border p-2 rounded-md size-10 cursor-pointer hover:scale:101'><BellAlertIcon className='size-6'></BellAlertIcon></button>
                         <button className='bg-trasparent border p-2 rounded-md size-10 cursor-pointer'><Bars3BottomLeftIcon className='size-6'></Bars3BottomLeftIcon></button>
                         <button className='bg-trasparent border p-2 rounded-md w-20 h-10 cursor-pointer'><span>Sort</span></button>
                         <button className='bg-trasparent border p-2 rounded-md w-15 h-10 cursor-pointer'><span>Filter</span></button>
